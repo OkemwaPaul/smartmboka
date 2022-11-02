@@ -1,7 +1,8 @@
 # Smart Mboka Welfare Association Kenya
 
-[Smart Mboka Welfare Association App](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
+[Smart Mboka Welfare Association App](https://Smart Mboka Welfare Association) This application will be used to manage and communicate with bodaboda riders within Kenya and those in authority for purposes of streamlining the sector.
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+It has sections for registration, authorization, comments and contact
 
-This repo has a dev container. This means if you open it inside a [GitHub Codespace](https://github.com/features/codespaces), or using [VS Code with the remote containers extension](https://code.visualstudio.com/docs/remote/containers), it will be opened inside a container with all the dependencies already installed.
+Improvements will be made upon members request. 
+Development by Paul Okemwa Ombuya
